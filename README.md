@@ -1,3 +1,3 @@
 # keyboard-language
 read and change keyboard language
-<p> lKeyboard Layout Info         http://kbdlayout.info/ </p>
+<p> Keyboard Layout Info     here :    http://kbdlayout.info/ </p>
